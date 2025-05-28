@@ -7,7 +7,7 @@ This repository contains code and notebooks developed during the [Advanced Deep 
 </p>
 
 ## About the Course  
-This course covers advanced Deep Learning concepts using PyTorch, focusing on modern architectures and essential techniques such as Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks, Generative Adversarial Networks (GANs), and Transfer Learning.  
+This course covers advanced Deep Learning concepts using PyTorch, focusing on modern architectures and essential techniques such as Convolutional Neural Networks (CNNs), Shallow and Deep Neural Networks, Softmax, and Cross-Entropy, Optimizers and weights initialization and more.  
 Since the course lectures and labs are in English, I chose to keep all code in the same language.
 
 ## Repository Structure  
